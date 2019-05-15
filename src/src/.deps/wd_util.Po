@@ -1,0 +1,184 @@
+wd_util.o: wd_util.c \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/stdio.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/features.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/uClibc_config.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sys/cdefs.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/lib/gcc/mips-linux-uclibc/4.8.5/include/stddef.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/types.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/wordsize.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/typesizes.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/uClibc_stdio.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/wchar.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/wchar.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/pthreadtypes.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/endian.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/endian.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/byteswap.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/byteswap.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/byteswap-common.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sgidefs.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/lib/gcc/mips-linux-uclibc/4.8.5/include/stdarg.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/stdio_lim.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/stdlib.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/waitflags.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/waitstatus.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sys/types.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/time.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sys/select.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/select.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/sigset.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/time.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sys/sysmacros.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/alloca.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/syslog.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sys/syslog.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/errno.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/errno.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/linux/errno.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/asm/errno.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/asm-generic/errno-base.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/string.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/pthread.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sched.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/sched.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/uClibc_clk_tck.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/signal.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/setjmp.h \
+ common.h gateway.h ../libhttpd/httpd.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sys/time.h \
+ commandline.h client_list.h conf.h safe.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/unistd.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/posix_opt.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/uClibc_posix_opt.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/environments.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/confname.h \
+ /opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/getopt.h \
+ util.h wd_util.h debug.h pstring.h ../config.h
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/stdio.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/features.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/uClibc_config.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sys/cdefs.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/lib/gcc/mips-linux-uclibc/4.8.5/include/stddef.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/types.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/wordsize.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/typesizes.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/uClibc_stdio.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/wchar.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/wchar.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/pthreadtypes.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/endian.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/endian.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/byteswap.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/byteswap.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/byteswap-common.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sgidefs.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/lib/gcc/mips-linux-uclibc/4.8.5/include/stdarg.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/stdio_lim.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/stdlib.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/waitflags.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/waitstatus.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sys/types.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/time.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sys/select.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/select.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/sigset.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/time.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sys/sysmacros.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/alloca.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/syslog.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sys/syslog.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/errno.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/errno.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/linux/errno.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/asm/errno.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/asm-generic/errno-base.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/string.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/pthread.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sched.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/sched.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/uClibc_clk_tck.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/signal.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/setjmp.h:
+
+common.h:
+
+gateway.h:
+
+../libhttpd/httpd.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/sys/time.h:
+
+commandline.h:
+
+client_list.h:
+
+conf.h:
+
+safe.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/unistd.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/posix_opt.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/uClibc_posix_opt.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/environments.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/confname.h:
+
+/opt/tools/rtl_9607Dbus/rsdk-4.8.5-5281-EB-3.18-u0.9.33-m32ut-150818p01_151020/include/bits/getopt.h:
+
+util.h:
+
+wd_util.h:
+
+debug.h:
+
+pstring.h:
+
+../config.h:
